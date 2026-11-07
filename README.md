@@ -1,4 +1,4 @@
-# Heliconius analysis using gdiff
+# *Heliconius* analysis using gdiff
 ```
 ani-analysis/          LEVEL 1 — ANI comparison + dip test
   build.py                 builds tables/ + merged-distances.tsv from outputs/
