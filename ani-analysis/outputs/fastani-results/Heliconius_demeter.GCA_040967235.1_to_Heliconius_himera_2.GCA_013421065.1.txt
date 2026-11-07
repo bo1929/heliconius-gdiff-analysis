@@ -1,0 +1,1 @@
+genomes/Heliconius_demeter.GCA_040967235.1.fna	genomes/Heliconius_himera_2.GCA_013421065.1.fna	89.5915	100392	121354

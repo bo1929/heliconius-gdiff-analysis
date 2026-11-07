@@ -1,0 +1,44 @@
+>>>>>>>>>>>>>>>>>>
+Reference = [genomes/Heliconius_erato_2.GCA_056362835.1.fna]
+Query = [genomes/Heliconius_besckei.GCA_044589335.1.fna]
+Kmer size = 16
+Fragment length = 3000
+Threads = 1
+ANI output file = fastani-results/Heliconius_besckei.GCA_044589335.1_to_Heliconius_erato_2.GCA_056362835.1.txt
+Sanity Check  = 0
+>>>>>>>>>>>>>>>>>>
+INFO [thread 0], skch::main, Count of threads executing parallel_for : 1
+INFO [thread 0], skch::Sketch::build, window size for minimizer sampling  = 24
+INFO [thread 0], skch::Sketch::build, minimizers picked from reference = 34421580
+INFO [thread 0], skch::Sketch::index, unique minimizers = 17023647
+INFO [thread 0], skch::Sketch::computeFreqHist, Frequency histogram of minimizers = (1, 13149873) ... (42618, 1)
+INFO [thread 0], skch::Sketch::computeFreqHist, consider all minimizers during lookup.
+INFO [thread 0], skch::main, Time spent sketching the reference : 36.3277 sec
+INFO [thread 0], skch::main, Start Map 1
+INFO [thread 0], skch::main, Time spent mapping fragments in query #1 : 54014.8 sec
+INFO [thread 0], skch::main, Time spent post mapping : 18.0172 sec
+INFO [thread 0], skch::main, ready to exit the loop
+INFO, skch::main, parallel_for execution finished
+	Command being timed: "fastANI -q genomes/Heliconius_besckei.GCA_044589335.1.fna -r genomes/Heliconius_erato_2.GCA_056362835.1.fna -o fastani-results/Heliconius_besckei.GCA_044589335.1_to_Heliconius_erato_2.GCA_056362835.1.txt"
+	User time (seconds): 53995.76
+	System time (seconds): 86.24
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 15:01:20
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 11341844
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 61360868
+	Voluntary context switches: 135
+	Involuntary context switches: 66185
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 32
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

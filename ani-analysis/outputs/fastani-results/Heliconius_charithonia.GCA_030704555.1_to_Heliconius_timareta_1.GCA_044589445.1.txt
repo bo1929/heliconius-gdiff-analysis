@@ -1,0 +1,1 @@
+genomes/Heliconius_charithonia.GCA_030704555.1.fna	genomes/Heliconius_timareta_1.GCA_044589445.1.fna	85.3295	71450	118621

@@ -1,0 +1,1 @@
+genomes/Heliconius_erato_1.GCA_056362945.2.fna	genomes/Heliconius_telesiphe.GCA_044589245.1.fna	90.254	100671	139679

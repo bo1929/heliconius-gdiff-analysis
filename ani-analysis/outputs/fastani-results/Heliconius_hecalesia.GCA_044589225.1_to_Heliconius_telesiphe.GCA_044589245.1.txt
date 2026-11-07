@@ -1,0 +1,1 @@
+genomes/Heliconius_hecalesia.GCA_044589225.1.fna	genomes/Heliconius_telesiphe.GCA_044589245.1.fna	91.083	101362	118621

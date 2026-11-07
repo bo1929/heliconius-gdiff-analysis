@@ -1,0 +1,1 @@
+genomes/Heliconius_hecalesia.GCA_044589225.1.fna	genomes/Heliconius_himera_1.GCA_013421025.1.fna	90.6026	94779	118621

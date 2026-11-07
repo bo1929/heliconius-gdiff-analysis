@@ -1,0 +1,1 @@
+genomes/Heliconius_himera_2.GCA_013421065.1.fna	genomes/Heliconius_telesiphe.GCA_044589245.1.fna	90.2262	99567	122114

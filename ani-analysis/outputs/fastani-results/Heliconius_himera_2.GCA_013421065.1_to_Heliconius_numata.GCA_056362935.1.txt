@@ -1,0 +1,1 @@
+genomes/Heliconius_himera_2.GCA_013421065.1.fna	genomes/Heliconius_numata.GCA_056362935.1.fna	85.6491	73527	122114

@@ -1,0 +1,1 @@
+genomes/Heliconius_pardalinus.GCA_044589375.1.fna	genomes/Heliconius_timareta_3.GCA_900068125.1.fna	93.4428	28757	114238

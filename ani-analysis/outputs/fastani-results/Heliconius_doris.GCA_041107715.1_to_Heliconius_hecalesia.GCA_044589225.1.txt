@@ -1,0 +1,1 @@
+genomes/Heliconius_doris.GCA_041107715.1.fna	genomes/Heliconius_hecalesia.GCA_044589225.1.fna	84.9795	74181	105841

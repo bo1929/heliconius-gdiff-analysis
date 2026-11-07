@@ -1,0 +1,1 @@
+genomes/Heliconius_besckei.GCA_044589335.1.fna	genomes/Heliconius_charithonia.GCA_030704555.1.fna	85.1001	71893	89135

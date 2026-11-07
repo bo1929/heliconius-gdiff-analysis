@@ -1,0 +1,1 @@
+genomes/Heliconius_telesiphe.GCA_044589245.1.fna	genomes/Heliconius_timareta_3.GCA_900068125.1.fna	86.019	27736	137994

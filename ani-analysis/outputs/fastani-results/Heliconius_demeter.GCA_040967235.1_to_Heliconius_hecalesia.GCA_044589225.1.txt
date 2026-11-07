@@ -1,0 +1,1 @@
+genomes/Heliconius_demeter.GCA_040967235.1.fna	genomes/Heliconius_hecalesia.GCA_044589225.1.fna	90.0857	101485	121354

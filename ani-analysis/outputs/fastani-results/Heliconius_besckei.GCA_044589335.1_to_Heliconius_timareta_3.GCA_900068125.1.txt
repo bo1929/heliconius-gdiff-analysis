@@ -1,0 +1,1 @@
+genomes/Heliconius_besckei.GCA_044589335.1.fna	genomes/Heliconius_timareta_3.GCA_900068125.1.fna	92.2566	28692	89135

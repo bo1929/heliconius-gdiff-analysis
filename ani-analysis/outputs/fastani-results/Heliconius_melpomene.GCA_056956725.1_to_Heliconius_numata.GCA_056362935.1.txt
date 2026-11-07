@@ -1,0 +1,1 @@
+genomes/Heliconius_melpomene.GCA_056956725.1.fna	genomes/Heliconius_numata.GCA_056362935.1.fna	93.2954	79741	99309

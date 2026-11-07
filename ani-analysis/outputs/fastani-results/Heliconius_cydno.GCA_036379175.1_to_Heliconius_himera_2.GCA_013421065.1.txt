@@ -1,0 +1,1 @@
+genomes/Heliconius_cydno.GCA_036379175.1.fna	genomes/Heliconius_himera_2.GCA_013421065.1.fna	85.7982	73915	87913

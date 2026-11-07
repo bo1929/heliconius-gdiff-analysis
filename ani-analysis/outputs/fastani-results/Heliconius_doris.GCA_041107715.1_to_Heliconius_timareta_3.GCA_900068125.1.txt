@@ -1,0 +1,1 @@
+genomes/Heliconius_doris.GCA_041107715.1.fna	genomes/Heliconius_timareta_3.GCA_900068125.1.fna	86.4067	27462	105841

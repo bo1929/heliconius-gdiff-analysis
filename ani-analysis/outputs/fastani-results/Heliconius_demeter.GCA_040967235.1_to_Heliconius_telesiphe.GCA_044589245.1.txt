@@ -1,0 +1,1 @@
+genomes/Heliconius_demeter.GCA_040967235.1.fna	genomes/Heliconius_telesiphe.GCA_044589245.1.fna	90.0875	103293	121354

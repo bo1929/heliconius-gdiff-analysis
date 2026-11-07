@@ -1,0 +1,1 @@
+genomes/Heliconius_besckei.GCA_044589335.1.fna	genomes/Heliconius_melpomene.GCA_056956725.1.fna	92.3138	77504	89135

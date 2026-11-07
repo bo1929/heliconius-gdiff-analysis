@@ -1,0 +1,1 @@
+genomes/Heliconius_sara.GCA_917862395.2.fna	genomes/Heliconius_timareta_2.GCA_040966655.1.fna	85.3052	75164	116101

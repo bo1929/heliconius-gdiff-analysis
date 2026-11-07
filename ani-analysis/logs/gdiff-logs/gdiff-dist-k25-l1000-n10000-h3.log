@@ -1,0 +1,19 @@
+=== bfly-k25-w25-frac0.5-l1000-n10000-h3 START 2026-10-14 13:07:43 ===
+--- build container bfly-k25-w25-frac0.5-n10000-l1000 ---
+--- pairwise distances ---
+gdiff version: v0.2.1-rc
+Invocation: /drive1/asapci/gdiff/gdiff dist /drive1/asapci/gdiff-dip-sweep/containers/bfly-k25-w25-frac0.5-n10000-l1000.gs --lr-th 6.635 --hdist-th 3 -o /drive1/asapci/gdiff-dip-sweep/analysis-out/dist/bfly-k25-w25-frac0.5-l1000-n10000-h3.dist.tsv --num-threads 32
+Wed Oct 14 13:08:22 2026
+Comparing sketches and calculating distances...
+entries=19 within-mode a=19
+Done calculating distances, elapsed: 70.0599 sec
+Wed Oct 14 13:09:32 2026
+--- per-window samples ---
+gdiff version: v0.2.1-rc
+Invocation: /drive1/asapci/gdiff/gdiff dist /drive1/asapci/gdiff-dip-sweep/containers/bfly-k25-w25-frac0.5-n10000-l1000.gs --output-samples --hdist-th 3 -o /drive1/asapci/gdiff-dip-sweep/analysis-out/samples/bfly-k25-w25-frac0.5-l1000-n10000-h3.samples.tsv --num-threads 32
+Wed Oct 14 13:09:32 2026
+Comparing sketches and calculating distances...
+entries=19 within-mode a=19
+Done calculating distances, elapsed: 69.7645 sec
+Wed Oct 14 13:10:41 2026
+=== bfly-k25-w25-frac0.5-l1000-n10000-h3 DONE 2026-10-14 13:10:41 ===

@@ -1,0 +1,44 @@
+>>>>>>>>>>>>>>>>>>
+Reference = [genomes/Heliconius_hecalesia.GCA_044589225.1.fna]
+Query = [genomes/Heliconius_erato_x_himera-F1.GCA_013421005.1.fna]
+Kmer size = 16
+Fragment length = 3000
+Threads = 1
+ANI output file = fastani-results/Heliconius_erato_x_himera-F1.GCA_013421005.1_to_Heliconius_hecalesia.GCA_044589225.1.txt
+Sanity Check  = 0
+>>>>>>>>>>>>>>>>>>
+INFO [thread 0], skch::main, Count of threads executing parallel_for : 1
+INFO [thread 0], skch::Sketch::build, window size for minimizer sampling  = 24
+INFO [thread 0], skch::Sketch::build, minimizers picked from reference = 30391193
+INFO [thread 0], skch::Sketch::index, unique minimizers = 16837005
+INFO [thread 0], skch::Sketch::computeFreqHist, Frequency histogram of minimizers = (1, 12994962) ... (34883, 1)
+INFO [thread 0], skch::Sketch::computeFreqHist, consider all minimizers during lookup.
+INFO [thread 0], skch::main, Time spent sketching the reference : 32.5461 sec
+INFO [thread 0], skch::main, Start Map 1
+INFO [thread 0], skch::main, Time spent mapping fragments in query #1 : 398593 sec
+INFO [thread 0], skch::main, Time spent post mapping : 336.833 sec
+INFO [thread 0], skch::main, ready to exit the loop
+INFO, skch::main, parallel_for execution finished
+	Command being timed: "fastANI -q genomes/Heliconius_erato_x_himera-F1.GCA_013421005.1.fna -r genomes/Heliconius_hecalesia.GCA_044589225.1.fna -o fastani-results/Heliconius_erato_x_himera-F1.GCA_013421005.1_to_Heliconius_hecalesia.GCA_044589225.1.txt"
+	User time (seconds): 393462.77
+	System time (seconds): 5486.55
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 110:49:41
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 123517532
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 249817
+	Minor (reclaiming a frame) page faults: 4067282080
+	Voluntary context switches: 254536
+	Involuntary context switches: 559522
+	Swaps: 0
+	File system inputs: 15032720
+	File system outputs: 40
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

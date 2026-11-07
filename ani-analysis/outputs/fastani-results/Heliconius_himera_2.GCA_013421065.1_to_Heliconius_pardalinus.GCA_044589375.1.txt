@@ -1,0 +1,1 @@
+genomes/Heliconius_himera_2.GCA_013421065.1.fna	genomes/Heliconius_pardalinus.GCA_044589375.1.fna	85.4367	75349	122114

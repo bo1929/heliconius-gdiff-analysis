@@ -1,0 +1,15 @@
+tool	config	stage	wall_seconds	max_rss_kb	source
+mash	k21-s10000	sketch	15.28	414652	logs/mash-logs/mash-sketch-k21-s10000.log
+mash	k21-s10000	dist	0.05	33740	logs/mash-logs/mash-dist-k21-s10000.log
+mash	k21-s10000	total	15.33	414652	sum of stages
+skani	slow	triangle	384.36	179438844	logs/skani-logs/skani-triangle-slow.log
+skani	default	triangle	25.84	17561772	logs/skani-logs/skani-triangle-default.log
+dashing2	default	dist	7.84	196656	logs/dashing-logs/dashing-default.log
+dashing2	v4	dist	8.02	192584	logs/dashing-logs/dashing-v4.log
+gdiff	k25-l1000-n10000-h3	sketch	70.8352		logs/gdiff-logs/gdiff-sketch-k25-l1000.log
+gdiff	k25-l1000-n10000-h3	dist	70.0599		logs/gdiff-logs/gdiff-dist-k25-l1000-n10000-h3.log
+gdiff	k25-l1000-n10000-h3	total	140.895		sum of stages
+gdiff	k23-l666-n10000-h3	sketch	88.0885		logs/gdiff-logs/gdiff-sketch-k23-l666.log
+gdiff	k23-l666-n10000-h3	dist	190.704		logs/gdiff-logs/gdiff-dist-k23-l666-n10000-h3.log
+gdiff	k23-l666-n10000-h3	total	278.793		sum of stages
+fastani	default	dist	1.76989e+07	186383012	171 per-pair runs, summed

@@ -1,0 +1,20 @@
+19
+genomes/Heliconius_besckei.GCA_044589335.1.fna
+genomes/Heliconius_charithonia.GCA_030704555.1.fna	85.19
+genomes/Heliconius_cydno.GCA_036379175.1.fna	92.52	85.38
+genomes/Heliconius_demeter.GCA_040967235.1.fna	85.58	90.53	85.27
+genomes/Heliconius_doris.GCA_041107715.1.fna	85.96	84.94	86.26	85.34
+genomes/Heliconius_erato_1.GCA_056362945.2.fna	85.85	88.78	86.15	89.96	85.45
+genomes/Heliconius_erato_2.GCA_056362835.1.fna	85.75	88.87	86.03	90.05	85.46	94.79
+genomes/Heliconius_erato_x_himera-F1.GCA_013421005.1.fna	86.09	86.89	83.84	90.50	85.72	93.91	93.81
+genomes/Heliconius_hecalesia.GCA_044589225.1.fna	85.70	89.02	84.87	90.53	85.41	90.79	90.88	91.38
+genomes/Heliconius_himera_1.GCA_013421025.1.fna	85.75	88.65	85.33	89.53	85.46	94.53	95.19	98.13	90.82
+genomes/Heliconius_himera_2.GCA_013421065.1.fna	85.71	88.49	85.00	89.99	85.40	94.51	95.18	97.95	90.77	99.04
+genomes/Heliconius_melpomene.GCA_056956725.1.fna	92.81	85.23	95.67	85.30	86.29	86.00	85.90	83.92	84.90	85.38	85.07
+genomes/Heliconius_numata.GCA_056362935.1.fna	93.41	85.31	93.59	85.30	86.32	86.08	86.00	83.89	84.95	85.41	85.13	93.80
+genomes/Heliconius_pardalinus.GCA_044589375.1.fna	93.27	85.08	92.77	85.47	86.40	85.64	85.62	86.00	85.52	85.61	85.59	93.30	93.21
+genomes/Heliconius_sara.GCA_917862395.2.fna	85.08	89.15	85.30	91.32	84.87	88.71	88.79	86.80	88.88	88.62	88.45	85.11	85.21	85.00
+genomes/Heliconius_telesiphe.GCA_044589245.1.fna	85.92	88.60	84.91	90.69	85.58	90.00	90.13	90.60	90.84	90.61	89.98	84.91	84.97	85.70	88.57
+genomes/Heliconius_timareta_1.GCA_044589445.1.fna	92.91	85.59	95.59	86.02	86.35	86.33	86.21	86.51	86.05	86.16	86.13	95.70	93.62	93.40	85.47	86.32
+genomes/Heliconius_timareta_2.GCA_040966655.1.fna	92.67	86.06	95.43	86.48	86.20	86.69	86.62	86.97	86.55	86.62	86.57	95.56	93.64	94.24	85.84	86.73	97.33
+genomes/Heliconius_timareta_3.GCA_900068125.1.fna	93.70	88.72	96.40	89.16	88.72	89.29	89.23	89.48	89.14	89.23	89.19	96.40	94.56	95.09	88.59	89.34	97.74	98.07
